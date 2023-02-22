@@ -22,3 +22,5 @@
 * Ensure that the corresponding pre-trained model weights are downloaded in advance
 * Use the train_resnet50_fpn.py training script directly
 
+## Testing method
+* Use the predict.py test script directly
