@@ -19,3 +19,5 @@
 * Make sure to download the corresponding pre-trained model weights in advance
 * Single GPU training or CPU, use train.py training script directly
 
+## Testing method
+* Use the predict.py test script directly
