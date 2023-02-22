@@ -3,6 +3,7 @@ DL models for detection powder bed defects in LPBF.
 
 
 # ###模型简介
+![Faster RCNN - 副本](https://user-images.githubusercontent.com/67319838/220785591-846e230b-1d75-4187-9a64-4e2c7bcd8adb.jpg)
 
 
 
